@@ -158,4 +158,3 @@ Allow users to access the application from the internet.
 
 ---
 
-Let me know if you'd like a sample folder structure or Terraform code to add to the README as well!
