@@ -1,4 +1,3 @@
-Absolutely! Here's the full English version of the project description that you can place in your `README.md` file:
 
 ---
 
